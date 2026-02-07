@@ -1,0 +1,13 @@
+.root {
+    -fx-padding: 15px;
+    -fx-background-color: #eaeaea;
+}
+
+.label {
+    -fx-text-fill: #4682b4;
+    -fx-font-size: 1.5em;
+    -fx-font-weight: bold;
+}
+#opaque {
+    -fx-background-color: white;
+}
